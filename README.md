@@ -12,11 +12,11 @@ In remembrance of the great game of Tetris, I've made a full java game as an ode
 
 I then adapted the text to a basic graphical setup from which I could draw the array-map for later matrix operation needed to translate and rotate the pieces. In the GIF below I'm testing out the program with the text version of the game on the left and the graphical framework on the right.
 
-![GIF of the Text-Based Game and Graphical Framework](https://github.com/Kartik-Nagpal/Tetris/blob/master/Textris.gif)
+![GIF of the Text-Based Game and Graphical Framework](https://github.com/Kartik-Nagpal/Tetris/blob/master/The%20GIFs/Textris.gif?raw=true)
 Text Version(left) and Graphical Framework Interface(right)
 
 Then I went on to fully implement the graphical interface for the user to see, and the key listeners to take in user input like the arrow keys and to react to that input. Thus, I got a working model, where once the piece got to the "bottom" it turned red, so that the user knows to now focus on the new blue piece. Since the text messages in the console for this version of the program were for troubleshooting and benchmarking processes, I only included the graphical interface, as I moved the pieces.
 
-![GIF of the Graphical User Interface in Action](https://github.com/Kartik-Nagpal/Tetris/blob/master/Tetris.gif)
+![GIF of the Graphical User Interface in Action](https://github.com/Kartik-Nagpal/Tetris/blob/master/The%20GIFs/Tetris.gif?raw=true)
 
 Over the course of this activity I got to go through the entire game design and production process. I came across a few pitfalls and obstacles and had to plan and build around them. Now that I'm done with the program, I have uploaded the project files onto this GitHub Repository, and included the .jar file such that you can download it and run it quickly, as well as including the above GIFs and installation instructions for the project files.
